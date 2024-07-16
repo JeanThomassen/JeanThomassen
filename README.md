@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+´´´js
+const jeanThomassen = {
+pronouns: "he" | "him",
+code: [Javascript, HTML, CSS, Java],
+tools: [Astro, React, Node, Storybook, Styled-Components, Jest, Docker];
+
 <!--
 **JeanThomassen/JeanThomassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
