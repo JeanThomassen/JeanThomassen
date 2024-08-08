@@ -7,7 +7,7 @@ Front-End Developer & Future Full Stack
 I am a web programming student at UNICEN, where I have been studying for the past year. I am passionate about software development and constantly seek to learn new technologies and improve my skills.
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [MyPortafolio]([http://myapp.com](https://jeanthomassen.vercel.app))
+* 🖥️  See my portfolio at [MyPortafolio]([https://jeanthomassen.vercel.app])
 * ✉️  You can contact me at [jeanthomassen.04@gmail.com](mailto:jeanthomassen.04@gmail.com)
 * 🧠  I'm learning Flutter
 
